@@ -4,7 +4,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/SlartiBartFast-art/licensing-service-View?logo=java&logoColor=red)
 
 part 2
+
 Application under construction
+
 More detailed information can be found in the original version of the project.
 
 License service microservice framework - license services - for Optima company.
@@ -58,9 +60,13 @@ DB
 ![Image of Arch](https://github.com/SlartiBartFast-art/licensing-service-View/blob/master/image/Screenshot_5.jpg)
 
 part 1 Configure Server
+
 part 2 License Service
+
 part 3 Organization Service
+
 part 4 Eureka Service
+
 part 5 API Gateway Server
 
 
