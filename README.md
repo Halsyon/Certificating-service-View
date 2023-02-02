@@ -41,7 +41,7 @@ DELETE
 actuator
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_3.jpg)
 
-![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_4.jpg)
+![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_4.png)
 
 Cloud Configuration Server
 
