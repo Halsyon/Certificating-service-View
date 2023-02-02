@@ -1,4 +1,4 @@
-# License service View
+# Certificating service View
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Halsyon/Certificating-service-View?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/Halsyon/Certificating-service-View?logo=java&logoColor=red)
@@ -11,7 +11,7 @@ Application under construction
 
 More detailed information can be found in the original version of the project.
 
-License service microservice framework - license services - for Optima company.
+Certificating service microservice framework - Certificating services - for Optima company.
 
 Application uses REST API architecture
 
@@ -61,25 +61,25 @@ Operation of the circuit breaker and spare implementation
 DB
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_5.jpg)
 
-part 1 Configure Server
+part 1 Configure Server View
 
-part 2 License Service
+part 2 Certificating Service View
 
-part 3 Organization Service
+part 3 Establishment Service View
 
-part 4 Eureka Service
+part 4 Eureka Service View
 
-part 5 API Gateway Server
+part 5 API Gateway Server View
 
 
 Used technology stack:
-
 - Java (Back-end)
 - Libraries (java):
-- Spring Boot (Data JPA, Web, Actuator, Config)
-- SpringCloud
+- Spring Boot (Data JPA, Web, Actuator, Config-Server)
+- SpringCloud (Config, bootstrap)
 - Hibernate HQL/ JPA (data-base)
 - PostgreSQL PSQL (data-base)
+- Docker
 - Lombok
 - Maven
 
