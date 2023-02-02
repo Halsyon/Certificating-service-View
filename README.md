@@ -77,7 +77,6 @@ Used technology stack:
 - Libraries (java):
 - Spring Boot (Data JPA, Web, Actuator, Config-Server)
 - SpringCloud (Config, bootstrap)
-- Hibernate HQL/ JPA (data-base)
 - PostgreSQL PSQL (data-base)
 - Docker
 - Lombok
