@@ -45,7 +45,7 @@ actuator
 
 Cloud Configuration Server
 
-![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/actuator.jpg)
+![Image of Arch]()
 
 Service discovery mechanism(DClient, RestTemplate+DClient, NFeign)
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/client/Feign.jpg)
