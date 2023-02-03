@@ -1,7 +1,7 @@
-# Certificating service View
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/Halsyon/Certificating-service-View?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/Halsyon/Certificating-service-View?logo=java&logoColor=red)
+
+# Certificating service View
 
 This view is a display of the project I wrote and the working project, in the description below you can see more details.
 
