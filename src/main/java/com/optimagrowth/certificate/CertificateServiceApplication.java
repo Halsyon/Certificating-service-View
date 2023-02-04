@@ -1,4 +1,4 @@
-package com.optimagrowth.license;
+package com.optimagrowth.certificate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

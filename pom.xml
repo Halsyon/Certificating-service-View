@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.optimagrowth</groupId>
-    <artifactId>licensing-service-view</artifactId>
+    <artifactId>certificate-service-view</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>licensing-service-view</name>
-    <description>Ostock Licensing Service View</description>
+    <name>certificate-service-view</name>
+    <description>Ostock Cartificate Service View</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.3</spring-cloud.version>
