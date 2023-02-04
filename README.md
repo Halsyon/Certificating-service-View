@@ -84,7 +84,7 @@ Used technology stack:
 
 ## Contact
 
-You can email me <grandjek@tutanota.com> anything you would like to say about this software.
+You can email me <Grandjek@tutanota.com> anything you would like to say about this software.
 
 
 
