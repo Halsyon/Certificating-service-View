@@ -64,9 +64,13 @@ DB
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_5.jpg)
 
 part 1 Configure Server View
+
 part 2 Certificating Service View
+
 part 3 Establishment Service View
+
 part 4 Eureka Service View
+
 part 5 API Gateway Server View
 
 ### Contact
