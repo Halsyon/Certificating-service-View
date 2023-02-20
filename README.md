@@ -60,8 +60,6 @@ Operation of the circuit breaker and spare implementation
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_7.jpg)
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_8.jpg)
 
-DB
-![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_5.jpg)
 
 part 1 Configure Server View
 
