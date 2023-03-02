@@ -28,11 +28,8 @@ import java.util.concurrent.TimeoutException;
 public class CertificateService {
 
     MessageSource messages;
-
     CertificateRepository certificateRepository;
-
     ServiceConfig config;
-
     EstablishmentFeignClient establishmentFeignClient;
 
     /**
