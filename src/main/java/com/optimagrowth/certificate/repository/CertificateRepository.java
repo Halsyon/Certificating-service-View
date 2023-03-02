@@ -9,5 +9,5 @@ public interface CertificateRepository extends CrudRepository<Certificate, Strin
 
     List<Certificate> findByEstablishmentId(String establishmentId);
 
-    Certificate findByEstablishmentAndCertificateId(String oestablishmentId, String certificateId);
+    Certificate findByEstablishmentAndCertificateId(String establishmentId, String certificateId);
 }
