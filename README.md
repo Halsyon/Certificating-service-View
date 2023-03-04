@@ -45,7 +45,7 @@ GET BY ID
 
 DELETE 
 
-![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_2.jpg)
+![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_2.png)
 
 actuator
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_3.png)
@@ -53,8 +53,7 @@ actuator
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_4.png)
 
 Cloud Configuration Server
-
-![Image of Arch]()
+---
 
 Service discovery mechanism(DClient, RestTemplate+DClient, NFeign)
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/client/Feign.png)
