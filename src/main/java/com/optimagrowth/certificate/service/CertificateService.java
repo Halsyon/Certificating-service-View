@@ -1,6 +1,7 @@
 package com.optimagrowth.certificate.service;
 
 import com.optimagrowth.certificate.config.ServiceConfig;
+import com.optimagrowth.certificate.events.model.OrganizationChangeModel;
 import com.optimagrowth.certificate.model.entity.Certificate;
 import com.optimagrowth.certificate.repository.CertificateRepository;
 import com.optimagrowth.certificate.service.client.EstablishmentFeignClient;
@@ -28,16 +29,10 @@ import java.util.concurrent.TimeoutException;
 public class CertificateService {
 
     MessageSource messages;
-
     CertificateRepository certificateRepository;
-
     ServiceConfig config;
-
     EstablishmentFeignClient establishmentFeignClient;
 
-    /**
-     *
-     */
     public Certificate getLicense(
             String certificateId,
             String establishmentId
@@ -61,7 +56,10 @@ public class CertificateService {
         return null;
     }
 
-    private List<Certificate> buildFallbackLicenseList(String organizationId, Throwable t) {
+    private List<Certificate> buildFallbackLicenseList(
+            String organizationId,
+            Throwable t
+    ) {
 
         return null;
     }
@@ -84,6 +82,10 @@ public class CertificateService {
         String responseMessage = null;
 
         return null;
+    }
+
+    @StreamListener(Sink.INPUT)
+    public void loggerSink(@Payload OrganizationChangeModel orgChange) {
     }
 }
 

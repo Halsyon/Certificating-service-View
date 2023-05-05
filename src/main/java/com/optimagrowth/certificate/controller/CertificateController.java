@@ -29,9 +29,8 @@ public class CertificateController {
 
     @GetMapping(value = "/")
     public List<Certificate> getAll(@PathVariable("establishmentId") String establishmentId) throws TimeoutException {
-        var list = certificateService.getCertificateByEstablishment(establishmentId);
 
-        return list;
+        return certificateService.getCertificateByEstablishment(establishmentId);
     }
 
     @GetMapping("/{certificateId}")
