@@ -1,23 +1,30 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Halsyon/Certificating-service-View?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/Halsyon/Certificating-service-View?logo=java&logoColor=red)
 
-### Certificating service View
+<p align="left">
+    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Certificating-service-View/github-clone-count-badge.svg">
+    <a href='https://github.com/Halsyon/Certificating-service-View/github-clone-count-badge'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Halsyon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github'></a>
+</p>
 
-Important for cloning. This project is a demo copy of the project and does not contain business logic.
+#### Certificating service View
+
+The important information for cloning. 
+This project is a demo copy of the project and does not contain business logic.
 
 part 2
 Application under construction!
 The registration service.
 This view is a display of the project I wrote and the working project, in the description below you can see more details.
 
-More detailed information can be found in the original version of the project.
-Certificating service microservice framework - Certificating services - for Optima company.
+ More detailed information can be found in the original version of the project.
+Certificating service microservice framework - Certificating services - for any company.
 Application uses REST API, microservice architecture.
 
 Used technology stack:
 - Java (Back-end)
 - Spring Boot
 - SpringCloud 
+- Kafka  
 - PostgreSQL PSQL (data-base)
 - Redis (NoSQL d-b)
 - Docker
@@ -29,6 +36,7 @@ Used technology stack:
 - using a service gateway 
 
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_9.png)
+
 
 saving entity to redis when requested via rest and api gateway
 ![Image of Arch](https://github.com/Halsyon/Certificating-service-View/blob/master/image/Screenshot_12.png)
