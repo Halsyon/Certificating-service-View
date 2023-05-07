@@ -6,12 +6,6 @@ import org.springframework.data.redis.core.RedisHash;
 
 import java.io.Serializable;
 
-
-@AllArgsConstructor
-@NoArgsConstructor
-@Getter
-@Setter
-@ToString
 @RedisHash("organization")
 public class EstablishmentView implements Serializable {
     @Id
