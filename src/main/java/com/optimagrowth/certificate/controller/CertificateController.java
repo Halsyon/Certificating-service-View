@@ -24,12 +24,10 @@ import static org.springframework.http.HttpStatus.OK;
 @FieldDefaults(makeFinal = true, level = AccessLevel.PRIVATE)
 public class CertificateController {
 
-
     CertificateService certificateService;
 
     @GetMapping(value = "/")
     public List<Certificate> getAll(@PathVariable("establishmentId") String establishmentId) throws TimeoutException {
-
         return certificateService.getCertificateByEstablishment(establishmentId);
     }
 
