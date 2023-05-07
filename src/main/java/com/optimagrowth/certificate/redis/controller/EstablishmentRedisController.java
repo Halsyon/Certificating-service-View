@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.*;
 
 @Slf4j
 @RequiredArgsConstructor
-@FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
 @RestController
 @RequestMapping("/v1/establishment-view")
+@FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
 public class EstablishmentRedisController {
 
     static Logger logger = LoggerFactory.getLogger(EstablishmentRedisController.class);
