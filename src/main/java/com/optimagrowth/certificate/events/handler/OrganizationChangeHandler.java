@@ -1,6 +1,5 @@
 package com.optimagrowth.certificate.events.handler;
 
-
 import com.optimagrowth.certificate.events.CustomChannels;
 import com.optimagrowth.certificate.events.model.OrganizationChangeModel;
 import lombok.Data;
